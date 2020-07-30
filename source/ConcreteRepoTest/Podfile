@@ -1,2 +1,4 @@
 platform :ios, '7.0'
+
+target 'ConcreteRepoTest'
 pod 'Reachability',  '~> 3.0'
